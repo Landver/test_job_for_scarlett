@@ -3,7 +3,7 @@
 ## Install and build app
 ```
 git clone https://github.com/Landver/test_job_for_scarlett
-cd library-test-project
+cd test_job_for_scarlett
 sh build.sh
 ```
 
